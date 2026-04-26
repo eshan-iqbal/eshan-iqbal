@@ -1,16 +1,73 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Eshan Iqbal</h1>
 
-<!--
-**eshan-iqbal/eshan-iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Enthusiast;Building+RAG+Systems;Scalable+System+Design" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a backend-focused developer passionate about building scalable systems and AI-powered applications.
+I enjoy combining backend engineering with machine learning to solve real-world problems.
+
+* 💻 Backend Development (Node.js, Python)
+* 🤖 Exploring AI systems (RAG, LLMs)
+* ⚡ Focused on scalable architectures
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,mysql,mongodb,docker,pytorch,git,linux" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+* Build REST APIs and backend systems
+* Design microservices architectures
+* Integrate AI/ML into applications
+* Work on RAG pipelines and intelligent systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshan-iqbal&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eshan-iqbal&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced RAG systems
+* LLM optimization
+* System design
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eshan-iqbal/eshan-iqbal/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect
+
+* GitHub: https://github.com/eshan-iqbal
+
+---
+
+## ⚡ Note
+
+I focus on writing clean, efficient code and building systems that solve real problems.
