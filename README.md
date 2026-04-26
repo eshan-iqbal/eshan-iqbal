@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Iqbal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Enthusiast;Building+RAG+Systems;Scalable+System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;AI%2FML+Enthusiast;Scalable+System+Design" />
 </p>
 
 ---
