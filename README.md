@@ -64,7 +64,7 @@ I enjoy combining backend engineering with machine learning to solve real-world 
 
 ## 📫 Connect
 
-* GitHub: https://github.com/eshan-iqbal
+* Portfolio: https://eshaniqbal.co.in
 
 ---
 
